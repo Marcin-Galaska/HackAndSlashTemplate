@@ -1,6 +1,8 @@
 # HackAndSlashTemplate
 This is an Unreal Engine 5.1 project template that may help creating an action rpg / hack and slash type game with isometric view and Gameplay Abilities plugin (https://github.com/tranek/GASDocumentation).
 
+![Screenshot](banner.png)
+
 ### Usage
 Feel free to use this when making a Hades / Enter the Gungeon type project.
 The main point are the two ACharacter-derived classes - Entity and its derivative, Playable. Entity is set up with fully working GAS, suitable for playable and nonplayable pawns alike, while Playable has the added benefit of camera and movement components. Your Playable will move with WASD while rotating towards a cursor that renders on the world surface in real time.
