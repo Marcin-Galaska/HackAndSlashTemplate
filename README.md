@@ -30,7 +30,6 @@ Be sure to create abilities from your own, custom class and not from the default
 Have fun!
 
 ### License
-
 BSD 2-Clause License
 
 Copyright (c) 2023, Marcin Gałąska <br>
